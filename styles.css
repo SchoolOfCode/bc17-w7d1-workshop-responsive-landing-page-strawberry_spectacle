@@ -1,15 +1,30 @@
-*{background-color: blue;}
 
- /* -SPLIT Wrapper into 4 */
+* {
+   font-family: "Aleo", serif;
+}
 
- .wrapper {
-    display: grid ;
-  
-    /* check if inline or not */
-
+.wrapper {
+   display: grid ;
  }
-g
-/* -Then split HERO into 2 column grid */
 
-/* -split how it works into: 1 title, 3 Cards/ 3 column grid
-    -Split the individual cards into 2 columns image and text  
+body {
+   margin: 0;
+}
+
+.site-header {
+   height: 50px;
+}
+
+.site-header h1 {
+   margin: 0;
+   font-size: 20px;
+   padding: 10px 15px;
+}
+
+.site-main {
+   background-color: white;
+}
+
+.site-footer {
+   background-color: rgb(221, 220, 220);
+}
