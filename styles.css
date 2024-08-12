@@ -1,1 +1,15 @@
 *{background-color: blue;}
+
+ /* -SPLIT Wrapper into 4 */
+
+ .wrapper {
+    display: grid ;
+  
+    /* check if inline or not */
+
+ }
+g
+/* -Then split HERO into 2 column grid */
+
+/* -split how it works into: 1 title, 3 Cards/ 3 column grid
+    -Split the individual cards into 2 columns image and text  
