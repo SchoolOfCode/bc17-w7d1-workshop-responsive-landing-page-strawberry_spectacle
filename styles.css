@@ -31,6 +31,40 @@ img[src="/LandingPageImages/hero-mobile.png"] {
    height: auto;
   }
 
+.perfect-fireplace {
+   background-color: #f1911b;
+   margin: 5px;
+   padding: 0 2px;
+}
+
+.perfect-fireplace h1 {
+   font-size: 2rem;
+}
+
+.perfect-fireplace h2 {
+   font-size: 1.2rem;
+}
+
+span.contact-no {
+   color: #FFFFFF
+}
+
+.how-it-works h1{
+   text-align: center;
+   font-weight: 500;
+   font-size: 1.5rem;
+}
+
+img[src="/LandingPageImages/how-it-works-1.png"],
+img[src="/LandingPageImages/how-it-works-2.png"],
+img[src="/LandingPageImages/how-it-works-3.png"] {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+} 
+
+
+
 .site-footer {
    background-color: rgb(221, 220, 220);
 }
